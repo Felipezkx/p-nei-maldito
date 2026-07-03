@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Qual o caminho ele tomou?",
         alternativas: [
             {
-                texto: "Um montanha de lava",
-                afirmacao: "Caminhou sem rumo até encontrar uma grande montanha"
+                texto: "fossa das marianas",
+                afirmacao: "que lugar díficil de chegar ao fundo"
             },
             {
-                texto: "Um deserto",
-                afirmacao: "Caminhou sem direção até chegar num deserto, arido e seco"
+                texto: "monte everest",
+                afirmacao: "muito frio e ar arefeito"
             }
         ]
     },
@@ -35,20 +35,20 @@ const perguntas = [
         enunciado: "O que ele fez ao chegar em destino?",
         alternativas: [
             {
-                texto: "procurou por alguém",
-                afirmacao: "olhando em todas as direções, procurando encontrar alguém."
+                texto: "avistou um leviathan",
+                afirmacao: "e então ele tirou uma foto para postar na internet para conseguir seguidores."
             },
             {
-                texto: "Refletiu sozinho",
-                afirmacao: "observando sua volta, viu que não precisava de mais nada."
+                texto: "encontrou um bar",
+                afirmacao: "e então sentou para tomar uma cerveja"
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "e então, o perguntaram:",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "você",
                 afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
             },
             {
