@@ -9,12 +9,12 @@ const perguntas = [
         enunciado: "Era uma Vez...",
         alternativas: [
             {
-                texto: "Uma iguana",
+                texto: "Uma iguana.",
                 afirmacao: "uma sabida iguana chamada iguanaru. "
             },
             {
-                texto: "Um axolote",
-                afirmacao: "Um axolote exótico e expressivo"
+                texto: "Um axolote.",
+                afirmacao: "Um axolote exótico e expressivo."
             }
         ]
     },
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Qual o caminho ele tomou?",
         alternativas: [
             {
-                texto: "fossa das marianas",
-                afirmacao: "que lugar díficil de chegar ao fundo"
+                texto: "fossa das marianas.",
+                afirmacao: "que lugar díficil de chegar ao fundo."
             },
             {
-                texto: "monte everest",
-                afirmacao: "muito frio e ar arefeito"
+                texto: "monte everest.",
+                afirmacao: "muito frio e ar rarefeito."
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "O que ele fez ao chegar em destino?",
         alternativas: [
             {
-                texto: "avistou um leviathan",
+                texto: "avistou um leviathan.",
                 afirmacao: "e então ele tirou uma foto para postar na internet para conseguir seguidores."
             },
             {
-                texto: "encontrou um bar",
-                afirmacao: "e então sentou para tomar uma cerveja"
+                texto: "encontrou um bar.",
+                afirmacao: "e então sentou para tomar uma cerveja."
             }
         ]
     },
@@ -48,25 +48,25 @@ const perguntas = [
         enunciado: "e então, o perguntaram:",
         alternativas: [
             {
-                texto: "você",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "o que você está fazendo aqui?",
+                afirmacao: "vim fazer uma captura de tela de um Leviatan para ficar famoso."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "o que você faz no bar?",
+                afirmacao: "quero tomar cachaça."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "você está cansado, o que você faz?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "volto para a casa",
+                afirmacao: "subo nas costas do Leviatan e subo até a superficie."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "quero dormir no bar.",
+                afirmacao: "bebo tanto que desmaio e passo a noite na bancada do bar."
             }
         ]
     },
